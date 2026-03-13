@@ -37,6 +37,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vedantzx04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Overall Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantzx04&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
+
+---
+
+### 📈 GitHub Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantzx04&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
 ---
 
 ### 🔗 Let's Connect
