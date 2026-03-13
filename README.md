@@ -1,3 +1,15 @@
+---
+
+<div align="center">
+
+### "Simply Lovely." — Red Bull Racing Inspired 🔵 🔴 🟡
+
+<img src="https://img.shields.io/badge/TEAM-RED%20BULL%20RACING-blue?style=for-the-badge&logo=redbullracing&logoColor=white" />
+<img src="https://img.shields.io/badge/CURRENT-DSA%20100%20DAYS-f9d71c?style=for-the-badge&logo=leetcode&logoColor=black" />
+
+</div>
+
+
 # 🛠️ The Tech Pitstop
 
 ### Languages & Logic
@@ -29,14 +41,3 @@
 <a href="mailto:your-email@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <img align="center" src="https://komarev.com/ghpvc/?username=Vedantdotexe&label=PROFILE%20VIEWS&color=0077b5&style=for-the-badge" alt="Profile Views" />
 </p>
-
----
-
-<div align="center">
-
-### "Simply Lovely." — Red Bull Racing Inspired 🔵 🔴 🟡
-
-<img src="https://img.shields.io/badge/TEAM-RED%20BULL%20RACING-blue?style=for-the-badge&logo=redbullracing&logoColor=white" />
-<img src="https://img.shields.io/badge/CURRENT-DSA%20100%20DAYS-f9d71c?style=for-the-badge&logo=leetcode&logoColor=black" />
-
-</div>
