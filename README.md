@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ System.out.println("Hello, World!"); 
-### 👋 I'm Shubham Swami | 3rd Year ECS Student
+### 👋 I'm Vedant | 3rd Year ECS Student
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Electronics+%26+Computer+Science;Data+Structures+%26+Algorithms;Frontend+Web+Developer;Building+Student+Exchange+MVP" alt="Typing SVG" />
 
